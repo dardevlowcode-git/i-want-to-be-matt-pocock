@@ -1,0 +1,19 @@
+# NOTICE
+
+## Attribution
+
+The **workflow method** and the **skills** used by this project belong to **Matt Pocock**, not to the author of this package.
+
+Sources:
+- Matt Pocock's YouTube channel (`@mattpocockuk`);
+- the GitHub repository `mattpocock/skills`.
+
+Pocock's skills are **not included** in this package. They are an **external dependency**, installed separately (`npx skills@latest add mattpocock/skills`) and covered by the author's license (MIT, Copyright (c) 2026 Matt Pocock).
+
+## Non-affiliation
+
+This is a **personal, unofficial project**. **It is not affiliated with, endorsed by, or sponsored by Matt Pocock.** The name "I want to be Matt Pocock" is ironic and does not imply any relationship with the author.
+
+## Credit
+
+This project **claims no credit** for the method or the skills. Its only contribution is **packaging them** so people who are not experts can be guided through their use.

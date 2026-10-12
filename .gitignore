@@ -1,0 +1,7 @@
+# Operating systems
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editors
+*.swp
